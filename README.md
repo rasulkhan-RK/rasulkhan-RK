@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulkhan-rk&label=Profile%20views&color=0e75b6&style=flat" alt="rasulkhan-rk" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://rasulkhan-rk.github.io/portfolio/](https://rasulkhan-rk.github.io/portfolio/)
 
