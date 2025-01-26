@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer based in Hubli, India</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Rasul Khan" width="400" height="auto" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Rasul Khan" width="550" height="auto" />
 </p>
 
 <p align="left"> 
