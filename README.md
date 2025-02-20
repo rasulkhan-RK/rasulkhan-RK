@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rasul Khan</h1>
+<h1 align="center"># Hi there, I'm Rasul Khan👋</h1>
+<h3>I'm a Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js). I’m passionate about building responsive, scalable web applications and constantly learning new technologies.
+</h3>
 <h3 align="center">A passionate fullstack developer based in Hubli, India</h3>
 
 <p align="center">
