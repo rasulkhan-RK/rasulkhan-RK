@@ -11,13 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=rasulkhan-rk&label=Profile%20views&color=0e75b6&style=flat" alt="rasulkhan-rk" /> 
 </p>
 
-- 🔭 I’m currently working on **Fullstack E-commerce**
+- 🔭 I’m currently working on **MERN_Authentication**
 
-- 🌱 I’m currently learning **MERN stack technology**
+- 🌱 I’m currently learning **Python and MySql**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rasulkhan-rk.github.io/portfolio/)
 
-- 💬 Ask me about **React and Redux**
+- 💬 Ask me about **MERN STACK technology**
 
 - 📫 How to reach me: **rk1932929@gmail.com**
 
