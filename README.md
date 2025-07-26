@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **MERN_Authentication Project**
 
-- 🌱 I’m currently learning **Python and MySql**
+- 🌱 I’m currently learning **Python and NextJs**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rasulkhan-rk.github.io/portfolio/)
 
